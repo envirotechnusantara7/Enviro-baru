@@ -1,0 +1,12 @@
+/* body {
+  min-height: 3000px;
+} */
+.jumbotron {
+  padding-top: 6rem;
+  position: relative;
+  mask-image: linear-gradient(rgba(0, 0, 0, 1) 98%, rgba(0, 0, 0, 0));
+}
+
+section {
+  padding-top: 6rem;
+}
